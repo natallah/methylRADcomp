@@ -1,4 +1,4 @@
-Raw data consists of downsampled Fastq files of undifferentiated (UD) and untreated F9 cells, differentiated (day 4) untreated F9 cells, and differentiated (day 4) cells treated with Pargyline.
+Raw data consists of downsampled FastqQ files, each with 100000 reads randomly selected through reservoir sampling, 150 bp long, with Phred33 qualities.  Samples are undifferentiated (UD) and untreated F9 cells, differentiated (day 4) untreated F9 cells, and differentiated (day 4) cells treated with Pargyline.
 
 All data is taken from the publication:
 
